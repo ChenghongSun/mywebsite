@@ -1,1 +1,5 @@
 # mywebsite
+
+*hi*
+
+**bold**
